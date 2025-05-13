@@ -1,8 +1,6 @@
-# RecapAssistant
+# Recap Assistant For DaVinci Resolve
 
 Link EXE-failile siin: https://drive.google.com/drive/folders/1BxUyae09Ldb95rMAvsrhghxg8dtUUKKP?usp=sharing
-
------- RECAP ASSISTANT FOR DAVINCI RESOLVE ------
 
 --- EESTI KEELES (ENGLISH BELOW) ---
 
